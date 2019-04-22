@@ -19,8 +19,8 @@
 ## 特别赞助商
 
 <p align="left">
-<a href="https://e.coding.net/?utm_source=macrozheng&utm_medium=banner&utm_campaign=march2019" target="_blank">
-  <img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/coding.jpg" width=""/>
+<a href="https://coding.net/?utm_source=macrozheng&utm_medium=banner&utm_campaign=march2019" target="_blank">
+  <img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/coding.png" width=""/>
  </a>
 </p>
 
@@ -152,7 +152,7 @@ Mysql | 5.7 | https://www.mysql.com/
 Redis | 3.2 | https://redis.io/download
 Elasticsearch | 6.2.2 | https://www.elastic.co/downloads
 MongoDb | 3.2 | https://www.mongodb.com/download-center
-RabbitMq | 3.4.1 | http://www.rabbitmq.com/download.html
+RabbitMq | 3.7.14 | http://www.rabbitmq.com/download.html
 nginx | 1.10 | http://nginx.org/en/download.html
 
 ### 搭建步骤
@@ -201,6 +201,6 @@ nginx | 1.10 | http://nginx.org/en/download.html
 
 ## 许可证
 
-[MIT](https://github.com/macrozheng/mall/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/macrozheng/mall/blob/master/LICENSE)
 
 Copyright (c) 2018-2019 macrozheng
